@@ -75,7 +75,7 @@ src/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Mahima5848/nexus-project-management-dashboard.git
 ```
 
 ### 2. Open the project folder
